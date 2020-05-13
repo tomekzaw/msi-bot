@@ -1,0 +1,6 @@
+chatterbot
+chatterbot-corpus
+discord.py
+python-dotenv
+pyowm
+giphy_client
