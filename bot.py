@@ -62,19 +62,28 @@ if __name__ == '__main__':
 
         else:
             bot_response = chatbot.get_response(request)
+            response = str(bot_response)
 
-            if bot_response.confidence >= 0.1:
-                await message.add_reaction(choice('😃👍'))
-                response = str(bot_response)
+            print(response)
 
+            if 'pizza' in response:
+                emoji = '🍕'
+            if 'spaghetti' in response:
+                emoji = '🍝'
+            elif 'cash' in response:
+                emoji = '💵'
+            elif bot_response.confidence >= 0.1:
+                emoji = choice('😃👍')
             else:
-                await message.add_reaction('🤷‍♀️')
-                response = choice((
-                    'What do you mean?',
-                    "I don't understand",
-                    'What do you mean by that?',
-                    "Sorry, I didn't understand you",
-                ))
+                emoji = '🤷‍♀️'
+                # response = choice((
+                #     'What do you mean?',
+                #     "I don't understand",
+                #     'What do you mean by that?',
+                #     "Sorry, I didn't understand you",
+                # ))
+
+            await message.add_reaction(emoji)
 
         await message.channel.send(f'{message.author.mention} {response}')
 

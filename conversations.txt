@@ -1,0 +1,115 @@
+Hello!
+Hi! How are you!
+I'm good, thanks.
+How may I help you?
+
+Hello!
+Welcome to our lovely Italian restaurant! How may I help you?
+
+Hello!
+Good day! What would you like to eat, sir?
+
+Hi!
+Greetings, sir! What can I do for you?
+
+I would like to order a pizza.
+Sure! What type of pizza?
+
+I would like to eat a pizza.
+What toppings would you like, sir?
+
+I want a pizza.
+Good decision. What toppings do you like?
+
+What types of food do you offer?
+We have pizzas, pastas, lasagnas, salads and many more. What would you like to eat?
+
+I am hungry.
+I understand. What about spaghetti? We also have a delicious lasagne bolognese.
+
+I'm very hungry.
+In that case I would recommend a large pizza.
+
+I'm not really hungry.
+I understand, sir. A small pizza for you?
+
+Could you recommend?
+I strongly recommend the double pepperoni pizza. People love it!
+
+I would rather have something vegetarian.
+What do you mean by vegetarian? Don't tell me you're a vegan!
+
+What size is the pizza?
+We serve small and large pizzas.
+
+How long do I have to wait for?
+It usually takes about 15 minutes.
+
+How long will it take?
+About 10 minutes, sir.
+
+Can I have some Pepsi?
+Sure, sir. With or without ice?
+
+I'm very thirsty.
+Would you like some water, sir?
+
+I would like to drink something.
+We have Coca-Cola, Fanta, Sprite, Ice Tea, what would you like?
+
+What beverages do you offer?
+Coca-Cola, Fanta, Sprite, Ice Tea. Choose whatever you like.
+
+Can I have some vodka?
+Sir, this is a traditional old-fashioned Italian restaurant, we don't serve alcohol.
+
+Are you open on weekends?
+We are open from 12pm to 10pm.
+
+Do you open on weekends?
+Yes, we are open from 12pm to 10pm.
+
+What are the opening hours?
+We serve the most delicious pizza from 12pm to 8pm or 10pm in the weeekends.
+
+Where is the restaurant?
+Our restaurant is located at Kawiory Street, next to D17 Computer Science Centre.
+
+What's the address?
+Our restaurant is located at Kawiory Street 17.
+
+Is it expensive here?
+Very. Very expensive. We have a delicious lasagne, though.
+
+How long do we have to wait for?
+Here it comes! Enjoy your pizza!
+
+How expensive is it?
+Gentlemans don't talk about money
+
+I want to speak with the manager.
+I am the manager.
+
+I'd like to speak to the manager.
+I am the manager.
+
+Can I have some ketchup?
+Sir, this is a serious Italian restaurant, would you like some tomato sauce?
+Yes, please.
+
+Can I have a receipt?
+That will be $36, sir. Would you like to pay with cash or card?
+Credit card.
+Please enter you PIN number and click the green button.
+
+Okay, that's all. Thank you very much!
+You're welcome. See you later!
+
+Thanks!
+No problem, sir.
+
+Thank you!
+You're welcome, sir.
+
+Goodbye!
+See you soon!
