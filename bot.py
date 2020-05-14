@@ -11,6 +11,7 @@ from dotenv import load_dotenv
 import discord
 import pyowm
 import giphy_client
+import pyjokes
 
 if __name__ == '__main__':
     load_dotenv()
@@ -51,8 +52,12 @@ if __name__ == '__main__':
             temperature = weather.get_temperature('celsius')['temp']
             response = f'Current temperature is {temperature:.1f} °C.'
 
-        elif matches('show me a funny meme', 'please send me a dank meme', 'send memes'):
+        elif matches('tell me a joke', 'do you know any jokes?'):
             await message.add_reaction('😂')
+            response = pyjokes.get_joke()
+
+        elif matches('show me a funny meme', 'please send me a dank meme', 'send memes'):
+            await message.add_reaction('🤣')
             gif = giphy.gifs_random_get(GIPHY_API_KEY, tag='spongebob')
             response = gif.data.image_original_url
 
@@ -64,8 +69,6 @@ if __name__ == '__main__':
             bot_response = chatbot.get_response(request)
             response = str(bot_response)
 
-            print(response)
-
             if 'pizza' in response:
                 emoji = '🍕'
             if 'spaghetti' in response:
@@ -73,7 +76,7 @@ if __name__ == '__main__':
             elif 'cash' in response:
                 emoji = '💵'
             elif bot_response.confidence >= 0.1:
-                emoji = choice('😃👍')
+                emoji = choice('😃😁👍')
             else:
                 emoji = '🤷‍♀️'
                 # response = choice((

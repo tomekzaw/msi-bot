@@ -12,6 +12,9 @@ Good day! What would you like to eat, sir?
 Hi!
 Greetings, sir! What can I do for you?
 
+What's your name?
+My name is Harold, but you can call me later.
+
 I would like to order a pizza.
 Sure! What type of pizza?
 
@@ -38,6 +41,9 @@ I strongly recommend the double pepperoni pizza. People love it!
 
 I would rather have something vegetarian.
 What do you mean by vegetarian? Don't tell me you're a vegan!
+
+Do you have mushrooms?
+I'm sorry to tell you but we are out of mushrooms of any type at the moment.
 
 What size is the pizza?
 We serve small and large pizzas.
