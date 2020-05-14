@@ -23,6 +23,11 @@ What toppings would you like, sir?
 
 I want a pizza.
 Good decision. What toppings do you like?
+*
+Okay. What else?
+
+What do you have?
+We have pizzas, pastas, lasagnas, salads and many more. What would you like to eat?
 
 What types of food do you offer?
 We have pizzas, pastas, lasagnas, salads and many more. What would you like to eat?
@@ -54,20 +59,40 @@ It usually takes about 15 minutes.
 How long will it take?
 About 10 minutes, sir.
 
-Can I have some Pepsi?
-Sure, sir. With or without ice?
+I want something to drink.
+We have Coca-Cola, Fanta, Sprite, Ice Tea, what would you like?
+
+I would like something to drink.
+We have Coca-Cola, Fanta, Sprite, Ice Tea, what would you like?
 
 I'm very thirsty.
 Would you like some water, sir?
 
-I would like to drink something.
-We have Coca-Cola, Fanta, Sprite, Ice Tea, what would you like?
+Can I have some Pepsi?
+Sure, sir. With or without ice?
+
+One * please.
+No problem, sir. What else?
+
+I'll take *
+No problem, sir. What else?
+
+I will take *
+No problem, sir. What else?
+
+Alright then.
+Okay. Something else for you, sir?
+
+Let's take it.
+Good decision. Something else for you?
 
 What beverages do you offer?
 Coca-Cola, Fanta, Sprite, Ice Tea. Choose whatever you like.
 
 Can I have some vodka?
 Sir, this is a traditional old-fashioned Italian restaurant, we don't serve alcohol.
+You really should.
+No, we really should not.
 
 Are you open on weekends?
 We are open from 12pm to 10pm.
@@ -91,7 +116,10 @@ How long do we have to wait for?
 Here it comes! Enjoy your pizza!
 
 How expensive is it?
-Gentlemans don't talk about money
+Gentlemans don't talk about money.
+
+How much is that?
+You certainly cannot afford it.
 
 I want to speak with the manager.
 I am the manager.
