@@ -23,8 +23,9 @@ What toppings would you like, sir?
 
 I want a pizza.
 Good decision. What toppings do you like?
-*
-Okay. What else?
+
+Cheese and pepperoni?
+Sounds good to me.
 
 What do you have?
 We have pizzas, pastas, lasagnas, salads and many more. What would you like to eat?
@@ -59,6 +60,9 @@ It usually takes about 15 minutes.
 How long will it take?
 About 10 minutes, sir.
 
+One large pizza, please.
+No problem, sir. What else?
+
 I want something to drink.
 We have Coca-Cola, Fanta, Sprite, Ice Tea, what would you like?
 
@@ -71,13 +75,10 @@ Would you like some water, sir?
 Can I have some Pepsi?
 Sure, sir. With or without ice?
 
-One * please.
+with
 No problem, sir. What else?
 
-I'll take *
-No problem, sir. What else?
-
-I will take *
+without
 No problem, sir. What else?
 
 Alright then.
